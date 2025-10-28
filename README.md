@@ -1,2 +1,3 @@
-# P-Barry.github.io
-Lab 7
+# Heading 1
+## Heading 2
+### Heading 3
